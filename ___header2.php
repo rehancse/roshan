@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<meta name="description" content="">
+	<meta name="theme-color" content="#e89897">
+	
+	<title>Satta Master</title>
+	<link rel="icon" href="images/favicon.png">
+	
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/hamburgers.css" rel="stylesheet">
+	<link href="fonts/fa/css/all.min.css" rel="stylesheet">
+	<link href="css/mystyle.css" rel="stylesheet">
+	<link href="css/poppins.css" rel="stylesheet">
+		
+
+	<link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap" rel="stylesheet">	
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap" rel="stylesheet">
+	
+	
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+
+	
+
+    
+	
+  </head>
+  
+  
+  
+  <body>
+  
+	<div id="" class="scroll">
+	
+	
+	
+		<div class="w-100vw">
+			<div class="row mx-0" id="pt-land">
+			
+				<div class="col-12 p-0">
+					<div class="container-fluid">
+					
+					
+						<nav class="navbar navbar-expand-lg navbar-light bg-trans py-3">
+						  <div class="collapse show navbar-collapse" id="">				  
+							<ul class="navbar-nav mr-auto my-flex-row">
+								<li class="nav-item whatsapp">
+									<a class="nav-link" target="_blank" href="https://api.whatsapp.com/send?phone=917007326488&text=I want to know more about Perfect Tutor. Please text me back."><i class="fab fa-whatsapp mr-2 fa-lg"></i>+91-1234-56789</a>
+								</li>
+								
+								<li class="nav-item ml-auto d-md-block d-lg-none" onclick="Nav();">
+									<!--
+									<div id="nav-icon1" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+									  <span></span>
+									  <span></span>
+									  <span></span>
+									</div>
+									-->
+									<button class="hamburger hamburger--squeeze" type="button" id="hamburger">
+									  <span class="hamburger-box">
+										<span class="hamburger-inner"></span>
+									  </span>
+									</button>
+									
+									<!--
+									<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+										<span class="navbar-toggler-icon"></span>
+									</button>
+									-->
+									
+								</li>
+							</ul>
+							
+							<ul class="navbar-nav mx-auto">
+							  <li class="nav-item text-center">
+								<a class="navbar-brand logo1" href="#">
+									<img class="img-fluid" src="images/logo.png">
+								</a>
+							  </li>
+							</ul>
+							
+							<ul class="navbar-nav ml-auto my-flex-row my-md-0 my-sm-3 my-3">
+							  <li class="nav-item">
+								<a href="#" onclick="signUp();" class="btn my-primary btn-width mr-3">Sign Up</a>
+							  </li>
+							  <li class="nav-item">
+								<a href="#" onclick="signIn();" class="btn my-success btn-width mr-3">Login</a>
+							  </li>
+							</ul>
+						  </div>
+						</nav>
+						
+						
+						
+						<nav id="mySidenav" class="navbar px-0 navbar-expand-lg navbar-light bg-trans sidenav">
+
+
+						  <div class="navbar-collapse" id="navbarSupportedContent">
+							<ul class="navbar-nav mx-auto">
+							  <li class="nav-item active" id="pt_home">
+								<a class="nav-link" href="index.php">Home</a>
+							  </li>
+							  <li class="nav-item">
+								<a class="nav-link" href="#">Guessing Forum</a>
+							  </li>
+							  <li class="nav-item">
+								<a class="nav-link" href="#">Expert Forum</a>
+							  </li>
+							  <li class="nav-item">
+								<a class="nav-link" href="#">Free 3 Ank</a>
+							  </li>
+							</ul>
+						  </div>
+						  
+						  
+						</nav>
+						
+						
+					</div>	
+				</div>
+  
+    
